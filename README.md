@@ -23,7 +23,7 @@ Full paper at https://www.ijcai.org/proceedings/2023/0217.pdf
 
 ### To train the ensemble’s **base learner**, run the file **fer_base_learner.py**
 
-### The following arguments can be set:
+The following arguments can be set:
 
 •	--primary_class, type=str,  help = 'class(es) the base learner is mainly trained on.’
 
@@ -41,7 +41,9 @@ Ex: primary_class=’0’ means that a high percentage of samples of the base le
 
 
 
-### To train the **master ensemble**, run the file **fer_e2eCEL.py**. A variety of arguments can be set
+### To train the **master ensemble**, run the file **fer_e2eCEL.py**. 
+
+A variety of arguments can be set
 
 
 •	--c, type=int, help='number of models of the ensemble'
