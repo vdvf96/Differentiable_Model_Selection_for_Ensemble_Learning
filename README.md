@@ -78,7 +78,7 @@ A variety of arguments can be set
 
 •	--sched, type=bool, help='If false we do not use the scheduler'
 
-# HAVE FUN!
+### Have fun!
 
 
 
