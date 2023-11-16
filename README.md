@@ -4,13 +4,21 @@
 **Please cite as**
 
 @inproceedings{
+
 inproceedings,
+
 author = {Kotary, James and Vito, Vincenzo and Fioretto, Ferdinando},
+
 year = {2023},
+
 month = {08},
+
 pages = {1954-1962},
+
 title = {Differentiable Model Selection for Ensemble Learning},
+
 doi = {10.24963/ijcai.2023/217}
+
 }
 
 This paper contains the code associated with the paper Differentiable Model Selection for Ensemble Learning, James Kotary*, Vincenzo Di Vito*, Ferdinando Fioretto. In Proceedings of the International Joint Conference of Artificial Intelligence (IJCAI), 2023.
