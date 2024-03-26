@@ -7,7 +7,7 @@
 
 inproceedings,
 
-author = {Kotary, James and Vito, Vincenzo and Fioretto, Ferdinando},
+author = {Kotary, James, Di Vito, Vincenzo and Fioretto, Ferdinando},
 
 year = {2023},
 
